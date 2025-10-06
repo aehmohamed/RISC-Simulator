@@ -1,0 +1,1 @@
+RISC Simulator, Expects an input of text files RISC current registers status and assembly instructions. Part of the requirements for NYU Computing Systems Architecture ECE-GY 6913-INET Spring 2024 course deliverables.
